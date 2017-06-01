@@ -14,3 +14,6 @@ We believe that combining technology and human expertise we can improve our comm
 
 # FAQ
 //TODO
+
+# SURVEY
+At the end of the event, [please complete our survey](https://docs.google.com/forms/d/e/1FAIpQLSezO6UIIwRWJwoB7Kk9Wz_dA_8Drq43FlXTiptOfc94d4DoMA/viewform)
